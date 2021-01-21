@@ -1,4 +1,4 @@
-const PACKAGE_VAR = () => {
+const npmRunTable = () => {
 }
 
-module.exports = PACKAGE_VAR
+module.exports = npmRunTable

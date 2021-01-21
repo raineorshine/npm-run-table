@@ -1,6 +1,6 @@
 {
-  "name": "PACKAGE_NAME",
-  "description": "PACKAGE_DESCRIPTION",
+  "name": "npm-run-table",
+  "description": "Format npm run output as a table",
   "version": "0.0.0",
   "author": {
     "name": "Raine Revere",

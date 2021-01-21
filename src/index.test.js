@@ -1,5 +1,5 @@
-const PACKAGE_VAR = require('./index')
+const npmRunTable = require('./index')
 
-test('PACKAGE_NAME', () => {
-  expect(PACKAGE_VAR).toBe(PACKAGE_VAR)
+test('npm-run-table', () => {
+  expect(npmRunTable).toBe(npmRunTable)
 })
